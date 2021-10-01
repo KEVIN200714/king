@@ -1,0 +1,16 @@
+{
+  "name": "UNITE",
+  "version": "1.0.0",
+  "description": "Chat app for people by kevin for us",
+  "main": "index.js", 
+  "author": "Grant Timmerman",
+  "private": true,
+  "license": "BSD",
+  "dependencies": {
+    "express": "~4.17.1",
+    "socket.io": "^4.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+} 
